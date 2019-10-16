@@ -1,6 +1,6 @@
 {
   "name": "s3upload",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -14,8 +14,6 @@
     "formidable": "^1.2.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "mongodb": "^3.3.2",
-    "mongoose": "^5.7.4",
     "morgan": "~1.9.1",
     "multiparty": "^4.2.1",
     "socket.io": "^2.3.0",
